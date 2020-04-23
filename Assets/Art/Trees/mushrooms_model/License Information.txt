@@ -1,0 +1,30 @@
+Hello Everyone!
+
+
+
+LICENSING
+
+Everything contained in this archive is distributed under CC-BY. Basically you can use this work anywhere and in any way you want. More information about license type can be found here: http://creativecommons.org/licenses/by/2.0/
+
+
+NOTES
+
+1. I strongly suggest you to use blog shadows under mushrooms. That way they will look much better.
+2. Feel free to edit texture file. Add circles to a hat, change colour, make it darker or lighter. In other words: make it fit perfect for your game.
+3. To make it look ceramic and artifical just add specularity to a material. Simply as that.
+
+Thank you and enjoy!
+
+
+
+CONTACT INFORMATION
+
+http://twitter/unitycat/
+
+letartbefree@hotmail.com
+
+
+
+-
+
+James White

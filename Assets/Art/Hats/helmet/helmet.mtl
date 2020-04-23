@@ -1,0 +1,34 @@
+# Material file for helmet.obj
+
+newmtl steel
+	Ns 0
+	d 1
+	illum 2
+	Kd 0.43 0.51 0.7
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+
+newmtl rubber
+	Ns 0
+	d 1
+	illum 2
+	Kd 0.1 0.1 0.1
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+
+newmtl camo
+	Ns 0
+	d 1
+	illum 2
+	Kd 0.13 0.21 0.09
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+
+newmtl leather
+	Ns 0
+	d 1
+	illum 2
+	Kd 0.2 0.1 0.1
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+

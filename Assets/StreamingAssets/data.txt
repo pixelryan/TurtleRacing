@@ -1,0 +1,130 @@
+[
+  {
+    "guestName": "turtlebot2",
+    "registeredDate": "-8586611589234237779",
+    "lastLoginBonusDate": "-8586145000854775808",
+    "registeredAddress": null,
+    "guestCash": 2000.0,
+    "bonusRoundBallsDropped": 0,
+    "currentBets": [],
+    "ownedTurtles": [
+      {
+        "name": "Gamera",
+        "favoriteSurface": "Dirt",
+        "favoriteWeather": null,
+        "ownersName": "turtlebot2",
+        "baseAcceleration": 2,
+        "baseEndurance": 3,
+        "soldFor": 9,
+        "myColor": 0,
+        "MyMaterial": 0,
+        "MyHat": 0,
+        "MyScaleX": 0,
+        "MyScaleY": 0
+      },
+      {
+        "name": "John",
+        "favoriteSurface": "Dirt",
+        "favoriteWeather": null,
+        "ownersName": "turtlebot2",
+        "baseAcceleration": 2,
+        "baseEndurance": 2,
+        "soldFor": 8,
+        "myColor": 0,
+        "MyMaterial": 0,
+        "MyHat": 0,
+        "MyScaleX": 1,
+        "MyScaleY": -9
+      }
+    ]
+  },
+  {
+    "guestName": "turtlebot1",
+    "registeredDate": "-8586611589234407320",
+    "lastLoginBonusDate": "-8586145000854775808",
+    "registeredAddress": null,
+    "guestCash": 6000.0,
+    "bonusRoundBallsDropped": 0,
+    "currentBets": [],
+    "ownedTurtles": [
+      {
+        "name": "Tim",
+        "favoriteSurface": "Grass",
+        "favoriteWeather": null,
+        "ownersName": "turtlebot1",
+        "baseAcceleration": 2,
+        "baseEndurance": 3,
+        "soldFor": 7,
+        "myColor": 0,
+        "MyMaterial": 0,
+        "MyHat": 0,
+        "MyScaleX": 0,
+        "MyScaleY": 0
+      },
+      {
+        "name": "Pumpernickle",
+        "favoriteSurface": "Dirt",
+        "favoriteWeather": null,
+        "ownersName": "turtlebot1",
+        "baseAcceleration": 2,
+        "baseEndurance": 2,
+        "soldFor": 7,
+        "myColor": 0,
+        "MyMaterial": 0,
+        "MyHat": 0,
+        "MyScaleX": -6,
+        "MyScaleY": -2
+      }
+    ]
+  },
+  {
+    "guestName": "turtlebot3",
+    "registeredDate": "-8586611589234217825",
+    "lastLoginBonusDate": "-8586145000854775808",
+    "registeredAddress": null,
+    "guestCash": 5000.0,
+    "bonusRoundBallsDropped": 0,
+    "currentBets": [],
+    "ownedTurtles": [
+      {
+        "name": "Marta",
+        "favoriteSurface": "Sand",
+        "favoriteWeather": null,
+        "ownersName": "turtlebot3",
+        "baseAcceleration": 2,
+        "baseEndurance": 4,
+        "soldFor": 9,
+        "myColor": 0,
+        "MyMaterial": 0,
+        "MyHat": 0,
+        "MyScaleX": 0,
+        "MyScaleY": 0
+      }
+    ]
+  },
+  {
+    "guestName": "turtlebot4",
+    "registeredDate": "-8586611589234227799",
+    "lastLoginBonusDate": "-8586145000854775808",
+    "registeredAddress": null,
+    "guestCash": 4000.0,
+    "bonusRoundBallsDropped": 0,
+    "currentBets": [],
+    "ownedTurtles": [
+      {
+        "name": "Janet",
+        "favoriteSurface": "Grass",
+        "favoriteWeather": null,
+        "ownersName": "turtlebot4",
+        "baseAcceleration": 2,
+        "baseEndurance": 3,
+        "soldFor": 9,
+        "myColor": 0,
+        "MyMaterial": 0,
+        "MyHat": 0,
+        "MyScaleX": 0,
+        "MyScaleY": 0
+      }
+    ]
+  }
+]
