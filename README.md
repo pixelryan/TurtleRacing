@@ -9,7 +9,7 @@ To run the game follow these instructions:
 
 * Use Unity 2018.2.4f1
 
-* Set Api Compatability Level to .NET 4.x under FilePlayer Settings
+* Set Api Compatability Level to .NET 4.x under Player Settings
 
 * Add your twitch name and [oauth key](https://twitchapps.com/tmi/) into text files in Assets\StreamingAssets
 
