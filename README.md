@@ -6,10 +6,11 @@ This is a game in which 10 turtles races, and players can bet on turltes using T
 See a [gameplay demo on YouTube.](https://www.youtube.com/watch?v=VYNfHGBAZ34)
 
 To run the game follow these instructions:
-Use Unity 2018.2.4f1
 
-Set Api Compatability Level to .NET 4.x under FilePlayer Settings
+* Use Unity 2018.2.4f1
 
-Add your twitch name and [oauth key](https://twitchapps.com/tmi/) into text files in Assets\StreamingAssets
+* Set Api Compatability Level to .NET 4.x under FilePlayer Settings
 
-Set Game window resolution to 1280x720
+* Add your twitch name and [oauth key](https://twitchapps.com/tmi/) into text files in Assets\StreamingAssets
+
+* Set Game window resolution to 1280x720
