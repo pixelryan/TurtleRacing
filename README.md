@@ -1,7 +1,7 @@
 # TurtleRacing
  Twitch Plays Turtle Racing
 
-This is a game in which 10 turtles races, and players can bet on turltes using Twtich chat, as well as own thier own turtle, and play a fun minigame.  This game was inspired by [TurtleCoin](https://turtlecoin.lol/).
+This is a game in which 10 turtles races, and players can bet on turtles using Twtich chat, as well as own thier own turtle, and play a fun minigame.  This game was inspired by [TurtleCoin](https://turtlecoin.lol/).
 
 See a [gameplay demo on YouTube.](https://www.youtube.com/watch?v=VYNfHGBAZ34)
 
