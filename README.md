@@ -5,9 +5,10 @@ This is a game in which 10 turtles races, and players can bet on turtles using T
 
 See a [gameplay demo on YouTube.](https://www.youtube.com/watch?v=VYNfHGBAZ34)
 
-To run the game follow these instructions:
+To run the game Download the [latest build](https://github.com/pixelryan/TurtleRacing/releases) for Windows and stream to Twitch with [OBS](https://obsproject.com/) or your software of choice.
 
-* Use Unity 2018.2.4f1
+To open the game in Unity:
+* Use Unity 2018.2.4f1 (others might work but this is what it was developed and tested on)
 
 * Set Api Compatability Level to .NET 4.x under Player Settings
 
